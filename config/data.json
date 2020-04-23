@@ -1,1 +1,1 @@
-{"SiteTextLogo":"Health Lock","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"1213","CurrencySymbol":"$","FacebookCurrency":"USD"}
+{"SiteTextLogo":"Health Lock","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"523692098324494","CurrencySymbol":"$","FacebookCurrency":"USD"}
